@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html data-theme="light" lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>歡迎來到我們的小貓窩！ 🐾</title>
+    <link rel="stylesheet" href="./mi index_files/63953018aeb2f914.css">
+    <link rel="stylesheet" href="./mi index_files/e366975feebb3d40.css">
+    <link rel="stylesheet" href="./mi index_files/104b51f64d2dc5f3.css">
+    <style>
+        /* 额外的小优化：确保图片在手机上也能正常显示 */
+        img { max-width: 100%; height: auto; border-radius: 12px; transition: transform 0.3s ease; }
+        img:hover { transform: scale(1.02); } /* 鼠标悬停有个小放大效果 */
+        .cat-card { width: 320px; border: 1px solid #eee; padding: 20px; border-radius: 20px; background: #fff; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+        .cat-card h3 { margin-top: 15px; color: #333; }
+        .cat-card p { color: #666; font-size: 0.95em; line-height: 1.5; }
+    </style>
+</head>
+<body>
+
+    <div class="card-content">
+        <h1 style="text-align: center; margin-top: 60px; font-size: 2.5em;">歡迎來到我們的小貓窩！ 🐾</h1>
+        <p style="text-align: center; opacity: 0.8; font-size: 1.2em; margin-bottom: 50px;">這裡是三隻毛茸茸小主人的溫馨家園</p>
+        
+        <hr style="margin: 40px auto; width: 80%; opacity: 0.1;">
+
+        <h2 style="text-align: center; margin-bottom: 40px; color: #555;">认识我们</h2>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; padding: 0 20px;">
+            
+            <div class="cat-card">
+                <div style="overflow: hidden; border-radius: 12px;">
+                    <img src="images/sanhua_sofa.png" alt="我们的三花猫在沙发上">
+                </div>
+                <h3>三花小主 - 沙發時光</h3>
+                <p>性格溫柔，最喜歡在灰色的針織毯上攤成一團，曬著太陽，靜靜地看著書架。</p>
+            </div>
+
+            <div class="cat-card">
+                <div style="overflow: hidden; border-radius: 12px;">
+                    <img src="images/sanhua_lap.png" alt="我们的三花猫在腿上">
+                </div>
+                <h3>三花小主 - 撒嬌時刻</h3>
+                <p>活潑好動，但也超黏人！最喜歡窩在主人的腿上，抬起頭用無辜的大眼睛看著你，讓人心都融化了。</p>
+            </div>
+
+            </div>
+
+        <div style="text-align: center; margin-top: 70px; margin-bottom: 50px;">
+            <a href="#" style="background: #ff9900; color: white; padding: 15px 40px; border-radius: 30px; text-decoration: none; font-weight: bold; font-size: 1.1em; box-shadow: 0 4px 10px rgba(255,153,0,0.3);">贊助貓咪罐頭 🐟</a>
+        </div>
+    </div>
+
+    <script src="./mi index_files/framework-2643ed217c049391.js.下載" defer=""></script>
+    <script src="./mi index_files/main-af4ea07d3b86029a.js.下載" defer=""></script>
+</body>
+</html>
